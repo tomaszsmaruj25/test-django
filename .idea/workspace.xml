@@ -2,50 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f2212a-f015-4f08-89ea-c0f41b189b3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/15.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/24959e855410fe718e2d3f3a1b4c8dd2.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/3eb6a7d01e8fbf1ebdba5630c707b341.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/ads.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/biscotti-recipe-2020-v2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/chocolate-swirl-cake-v.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/e-202023.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/fbevents.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/free-ebook-splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/grilled-zucchini-bread-salad-v.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/lazyload.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/pasta-smashed-zucchini-cream-v.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/rice-noodle-stir-fry-recipe-v.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/saved_resource" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/saved_resource(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/saved_resource(2)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/weeknight-expresscover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/templates/food/index_files/zucchini-bread-recipe-v-2020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
